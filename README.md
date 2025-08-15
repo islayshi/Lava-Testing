@@ -15,5 +15,6 @@ Ouput for `spiketest.py` should look like this:
 
 <img width="511" height="156" alt="image" src="https://github.com/user-attachments/assets/026f83e5-0d06-483b-b9d7-9d272e9cd21f" />
 
-
+To close: 
+`conda deactivate`
 
